@@ -1,0 +1,934 @@
+﻿Log file open, 11/05/17 23:32:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MobileGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(3142192) SRandInit(3142192).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190117
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.05-15.32.16:741][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.05-15.32.16:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.05-15.32.16:751][  0]LogInit: Computer: ACER
+[2017.11.05-15.32.16:751][  0]LogInit: User: user
+[2017.11.05-15.32.16:751][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.05-15.32.16:751][  0]LogInit: High frequency timer resolution =2.143478 MHz
+[2017.11.05-15.32.16:752][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2017.11.05-15.32.16:752][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.05-15.32.16:752][  0]LogMemory: Process Physical Memory: 272.71 MB used, 272.71 MB peak
+[2017.11.05-15.32.16:752][  0]LogMemory: Process Virtual Memory: 272.00 MB used, 272.00 MB peak
+[2017.11.05-15.32.16:752][  0]LogMemory: Physical Memory: 7510.65 MB used,  8529.63 MB free, 16040.28 MB total
+[2017.11.05-15.32.16:752][  0]LogMemory: Virtual Memory: 645.72 MB used,  8529.63 MB free, 134217728.00 MB total
+[2017.11.05-15.32.16:910][  0]LogInit: Overriding language with editor culture configuration option (en).
+[2017.11.05-15.32.16:910][  0]LogInit: Overriding locale with editor culture configuration option (en).
+[2017.11.05-15.32.17:495][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.05-15.32.17:977][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.05-15.32.18:014][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760M' (Feature Level 11_0)
+[2017.11.05-15.32.18:014][  0]LogD3D11RHI:       2019/0/8020 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.05-15.32.18:023][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.05-15.32.18:023][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.05-15.32.18:025][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.05-15.32.18:025][  0]LogD3D11RHI:       0/0/8020 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.05-15.32.18:025][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.05-15.32.18:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.05-15.32.18:032][  0]LogD3D11RHI:     GPU DeviceId: 0x11e3 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.05-15.32.18:032][  0]LogWindows: EnumDisplayDevices:
+[2017.11.05-15.32.18:033][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.11.05-15.32.18:033][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.05-15.32.18:033][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.05-15.32.18:033][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.05-15.32.18:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760M
+[2017.11.05-15.32.18:033][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.05-15.32.18:034][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.05-15.32.18:034][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2017.11.05-15.32.18:052][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.05-15.32.18:064][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.05-15.32.18:065][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Intermediate/Shaders/WorkingDirectory/8004/).
+[2017.11.05-15.32.18:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/0D6483D042C25251786A6A9F455F3E23/'.
+[2017.11.05-15.32.18:065][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.05-15.32.19:363][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.05-15.32.19:429][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.05-15.32.19:495][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.05-15.32.19:553][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.05-15.32.19:617][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.05-15.32.19:684][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.05-15.32.19:745][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.05-15.32.19:803][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.05-15.32.19:863][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.05-15.32.19:920][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.05-15.32.19:985][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.05-15.32.20:055][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.05-15.32.20:123][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.05-15.32.20:189][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.05-15.32.20:356][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.05-15.32.20:356][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.05-15.32.20:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.05-15.32.20:496][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.05-15.32.20:610][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.05-15.32.20:639][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.05-15.32.20:702][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.05-15.32.20:769][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.05-15.32.20:833][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.05-15.32.20:901][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.05-15.32.20:901][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.05-15.32.21:488][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.05-15.32.21:576][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.05-15.32.21:603][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.05-15.32.21:615][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.05-15.32.21:631][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.05-15.32.21:631][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.05-15.32.21:633][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.05-15.32.21:633][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.05-15.32.22:208][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.05-15.32.22:639][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.05-15.32.22:692][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.05-15.32.22:692][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.05-15.32.22:692][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.05-15.32.22:692][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.05-15.32.22:692][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.05-15.32.22:735][  0]LogNetVersion: MobileGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2303597199)
+[2017.11.05-15.32.22:945][  0]LogAssetRegistry: FAssetRegistry took 0.0289 seconds to start up
+[2017.11.05-15.32.23:616][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.035058 seconds
+[2017.11.05-15.32.23:625][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.05-15.32.23:625][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.05-15.32.23:625][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.05-15.32.23:692][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.05-15.32.28:622][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.05-15.32.28:714][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.05-15.32.30:062][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.05-15.32.30:901][  0]SourceControl: Source control is disabled
+[2017.11.05-15.32.30:901][  0]SourceControl: Source control is disabled
+[2017.11.05-15.32.31:012][  0]SourceControl: Source control is disabled
+[2017.11.05-15.32.31:125][  0]SourceControl: Source control is disabled
+[2017.11.05-15.32.32:845][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.05-15.32.33:417][  0]LogOcInput: OculusInput pre-init called
+[2017.11.05-15.32.33:989][  0]LogEngine: Initializing Engine...
+[2017.11.05-15.32.33:994][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.05-15.32.34:407][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.05-15.32.34:407][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.05-15.32.34:640][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.05-15.32.34:648][  0]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.05-15.32.34:660][  0]LogInit: FAudioDevice initialized.
+[2017.11.05-15.32.34:767][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.05-15.32.34:786][  0]LogInit: Texture streaming: Enabled
+[2017.11.05-15.32.34:949][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.05-15.32.35:181][  0]LogInit: Transaction tracking system initialized
+[2017.11.05-15.32.35:718][  0]BlueprintLog: New page: Editor Load
+[2017.11.05-15.32.36:919][  0]LocalizationService: Localization service is disabled
+[2017.11.05-15.32.38:109][  0]LogConsoleResponse: Display: 
+[2017.11.05-15.32.38:322][  0]LogFileCache: Scanning file cache for directory 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/' took 0.01s
+[2017.11.05-15.32.38:322][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.05-15.32.38:322][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.05-15.32.38:322][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.05-15.32.39:798][  0]SourceControl: Source control is disabled
+[2017.11.05-15.32.39:936][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Program Files/Epic Games/UE_4.18/FeaturePacks/MobileStarterContent.upack)
+[2017.11.05-15.32.39:977][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.05-15.32.40:002][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.05-15.32.40:003][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.05-15.32.40:004][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.05-15.32.40:025][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.05-15.32.40:026][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.05-15.32.40:027][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.05-15.32.40:028][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.05-15.32.40:029][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.05-15.32.40:029][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.05-15.32.40:030][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.05-15.32.40:032][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2017.11.05-15.32.40:034][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2017.11.05-15.32.40:034][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.05-15.32.40:036][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2017.11.05-15.32.40:036][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2017.11.05-15.32.40:037][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.05-15.32.40:077][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2017.11.05-15.32.40:079][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.05-15.32.40:080][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.05-15.32.40:082][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.05-15.32.40:083][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Light01.uasset"
+[2017.11.05-15.32.40:084][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2017.11.05-15.32.40:085][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Light02.uasset"
+[2017.11.05-15.32.40:086][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2017.11.05-15.32.40:087][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2017.11.05-15.32.40:088][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.05-15.32.40:089][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.05-15.32.40:093][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.05-15.32.40:122][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2017.11.05-15.32.40:130][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.05-15.32.40:135][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.05-15.32.40:137][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.05-15.32.40:139][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2017.11.05-15.32.40:140][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.05-15.32.40:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.05-15.32.40:142][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.05-15.32.40:143][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.05-15.32.40:153][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.05-15.32.40:154][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.05-15.32.40:155][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.05-15.32.40:158][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2017.11.05-15.32.40:160][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.05-15.32.40:203][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2017.11.05-15.32.40:212][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.05-15.32.40:213][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.05-15.32.40:213][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.05-15.32.40:215][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.05-15.32.40:217][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.05-15.32.40:218][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.05-15.32.40:219][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.05-15.32.40:221][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.05-15.32.40:223][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.05-15.32.40:225][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.05-15.32.40:227][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.05-15.32.40:260][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.05-15.32.40:262][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.05-15.32.40:263][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.05-15.32.40:264][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.05-15.32.40:265][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.05-15.32.40:266][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2017.11.05-15.32.40:267][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.05-15.32.40:268][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.05-15.32.40:269][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.05-15.32.40:270][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.05-15.32.40:271][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.05-15.32.40:272][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.05-15.32.40:274][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.05-15.32.40:276][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.05-15.32.40:277][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.05-15.32.40:286][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.05-15.32.40:290][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.05-15.32.40:291][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.05-15.32.40:293][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.05-15.32.40:294][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.05-15.32.40:295][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.05-15.32.40:297][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.05-15.32.40:298][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.05-15.32.40:299][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.05-15.32.40:301][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.05-15.32.40:302][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.05-15.32.40:303][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.05-15.32.40:304][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.05-15.32.40:306][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.05-15.32.40:308][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.05-15.32.40:309][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.05-15.32.40:310][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.05-15.32.40:311][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2017.11.05-15.32.40:312][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2017.11.05-15.32.40:313][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2017.11.05-15.32.40:315][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2017.11.05-15.32.40:317][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.05-15.32.40:318][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.05-15.32.40:320][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.05-15.32.40:321][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.05-15.32.40:322][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.05-15.32.40:324][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.05-15.32.40:325][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.05-15.32.40:326][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.05-15.32.40:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.05-15.32.40:329][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2017.11.05-15.32.40:330][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2017.11.05-15.32.40:332][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2017.11.05-15.32.40:333][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.05-15.32.40:335][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2017.11.05-15.32.40:336][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2017.11.05-15.32.40:337][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.05-15.32.40:338][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.05-15.32.40:340][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.05-15.32.40:341][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.05-15.32.40:345][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.05-15.32.40:346][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.05-15.32.40:348][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.05-15.32.40:349][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2017.11.05-15.32.40:350][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2017.11.05-15.32.40:350][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2017.11.05-15.32.40:352][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2017.11.05-15.32.40:354][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2017.11.05-15.32.40:355][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.05-15.32.40:360][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.05-15.32.40:362][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.05-15.32.40:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2017.11.05-15.32.40:368][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.05-15.32.40:371][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.05-15.32.40:374][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.05-15.32.40:376][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.05-15.32.40:377][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.05-15.32.40:378][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.05-15.32.40:379][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.05-15.32.40:380][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.05-15.32.40:381][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.05-15.32.40:383][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.05-15.32.40:384][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.05-15.32.40:385][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.05-15.32.40:386][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.05-15.32.40:388][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.05-15.32.40:390][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.05-15.32.40:391][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.05-15.32.40:393][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.05-15.32.40:394][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.05-15.32.40:395][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.05-15.32.40:397][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.05-15.32.40:398][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.05-15.32.40:399][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.05-15.32.40:400][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.05-15.32.40:401][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.05-15.32.40:402][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.05-15.32.40:404][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.05-15.32.40:405][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.05-15.32.40:406][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.05-15.32.40:411][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.05-15.32.40:415][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.05-15.32.40:418][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.05-15.32.40:421][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.05-15.32.40:444][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.05-15.32.40:448][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.05-15.32.40:453][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.05-15.32.40:504][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.05-15.32.40:508][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.05-15.32.40:511][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.05-15.32.40:513][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.05-15.32.40:517][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.05-15.32.40:520][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.05-15.32.40:521][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2017.11.05-15.32.40:523][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2017.11.05-15.32.40:524][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2017.11.05-15.32.40:525][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.05-15.32.40:526][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.05-15.32.40:527][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2017.11.05-15.32.40:529][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2017.11.05-15.32.40:530][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.05-15.32.40:535][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.05-15.32.40:536][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.05-15.32.40:546][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.05-15.32.40:548][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.05-15.32.40:550][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.05-15.32.40:553][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.05-15.32.40:556][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.05-15.32.40:560][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.05-15.32.40:564][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.05-15.32.40:568][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.05-15.32.40:571][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.05-15.32.40:575][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.05-15.32.40:579][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.05-15.32.40:582][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.05-15.32.40:586][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.05-15.32.40:589][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.05-15.32.40:590][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.05-15.32.40:592][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.05-15.32.40:593][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2017.11.05-15.32.40:594][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2017.11.05-15.32.40:595][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.05-15.32.40:597][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.05-15.32.40:598][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.05-15.32.40:599][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.05-15.32.40:601][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2017.11.05-15.32.40:602][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2017.11.05-15.32.40:603][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.05-15.32.40:608][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.05-15.32.40:611][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.05-15.32.40:616][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.05-15.32.40:620][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.05-15.32.40:624][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.05-15.32.40:627][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.05-15.32.40:629][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.05-15.32.40:631][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.05-15.32.40:650][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.05-15.32.40:653][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.05-15.32.40:656][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.05-15.32.40:661][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.05-15.32.40:663][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.05-15.32.40:667][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.05-15.32.40:670][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.05-15.32.40:674][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.05-15.32.40:677][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.05-15.32.40:712][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.05-15.32.40:715][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.05-15.32.40:718][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.05-15.32.40:722][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.05-15.32.40:726][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.05-15.32.40:729][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.05-15.32.40:735][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.05-15.32.40:738][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.05-15.32.40:744][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.05-15.32.40:749][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.05-15.32.40:754][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.05-15.32.40:755][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.05-15.32.40:758][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.05-15.32.40:759][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.05-15.32.40:761][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.05-15.32.40:775][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.05-15.32.40:777][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.05-15.32.40:779][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2017.11.05-15.32.40:781][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2017.11.05-15.32.40:784][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.05-15.32.40:785][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.05-15.32.40:788][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.05-15.32.40:789][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.05-15.32.40:791][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.05-15.32.40:793][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.05-15.32.40:794][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.05-15.32.40:819][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.05-15.32.40:821][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2017.11.05-15.32.40:822][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2017.11.05-15.32.40:826][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.05-15.32.40:829][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.05-15.32.40:831][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.05-15.32.40:834][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.05-15.32.40:836][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.05-15.32.40:840][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.05-15.32.40:843][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.05-15.32.40:847][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.05-15.32.40:850][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.05-15.32.40:878][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.11.05-15.32.41:100][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.05-15.32.41:203][  0]LogStaticMesh: Built static mesh [0.11s] /Game/MobileStarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.05-15.32.41:838][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2017.11.05-15.32.42:212][  0]LogSavePackage: Save=110.50ms
+[2017.11.05-15.32.42:212][  0]LogSavePackage: Moving 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/Floor_400x400D943A41B454AD5EBEF3F86999BA9EFAC.tmp' to 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.05-15.32.42:214][  0]LogSavePackage: Display: Finished SavePackage F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset
+[2017.11.05-15.32.42:215][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.05-15.32.42:216][  0]Cmd: MAP LOAD FILE="F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.05-15.32.42:217][  0]LightingResults: New page: Lighting Build
+[2017.11.05-15.32.42:291][  0]MapCheck: New page: Map Check
+[2017.11.05-15.32.42:291][  0]LightingResults: New page: Lighting Build
+[2017.11.05-15.32.45:963][  0]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.05-15.32.46:004][  0]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.05-15.32.46:118][  0]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.05-15.32.46:179][  0]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.05-15.32.46:239][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.05-15.32.46:944][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.05-15.32.47:245][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.05-15.32.47:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.53ms to complete.
+[2017.11.05-15.32.47:356][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.139
+[2017.11.05-15.32.47:564][  0]LogCollectionManager: Loaded 0 collections in 0.001803 seconds
+[2017.11.05-15.32.47:695][  0]LogFileCache: Scanning file cache for directory 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/Collections/' took 0.01s
+[2017.11.05-15.32.47:695][  0]LogFileCache: Scanning file cache for directory 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/Developers/user/Collections/' took 0.01s
+[2017.11.05-15.32.47:695][  0]LogFileCache: Scanning file cache for directory 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/Collections/' took 0.01s
+[2017.11.05-15.32.47:695][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.05-15.32.47:713][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2363 classes and 519 folders.
+[2017.11.05-15.32.47:833][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.05-15.32.47:942][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.05-15.32.48:024][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.05-15.32.48:377][  0]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.05-15.32.48:382][  0]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.05-15.32.48:394][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.05-15.32.48:537][  0]LogRenderer: Reallocating scene render targets to support 1200x652 Format 9 NumSamples 1 (Frame:1).
+[2017.11.05-15.32.48:756][  0]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.05-15.32.49:112][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.05-15.32.49:113][  0]LogLoad: (Engine Initialization) Total time: 35.83 seconds
+[2017.11.05-15.32.49:113][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.05-15.32.49:113][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.05-15.32.49:484][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.11.05-15.32.50:139][  2]LogAssetRegistry: Asset discovery search completed in 27.2164 seconds
+[2017.11.05-15.32.50:144][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.05-15.32.50:144][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000149 seconds (updated 0 objects)
+[2017.11.05-15.36.55:966][104]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.05-15.36.55:971][104]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.05-15.36.55:980][104]LightingResults: New page: Lighting Build
+[2017.11.05-15.36.55:984][104]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.11.05-15.36.55:986][104]MapCheck: New page: Map Check
+[2017.11.05-15.36.55:986][104]LightingResults: New page: Lighting Build
+[2017.11.05-15.36.56:071][104]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.05-15.36.56:313][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.05-15.36.56:332][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.05-15.36.56:409][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.708ms to complete.
+[2017.11.05-15.36.56:409][104]LogFileHelpers: Loading map 'Template_Default' took 0.466
+[2017.11.05-15.37.20:383][304]LogSavePackage: Save=66.34ms
+[2017.11.05-15.37.20:383][304]LogSavePackage: Moving 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/MainFFFAEB3A4326E8F1CB84B39E1CDDE44A.tmp' to 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main.umap'
+[2017.11.05-15.37.20:384][304]LogSavePackage: Display: Finished SavePackage F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main.umap
+[2017.11.05-15.37.20:443][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HalloweenRhapsody/Maps/Main_BuiltData" FILE="F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset" SILENT=true
+[2017.11.05-15.37.20:513][304]LogSavePackage: Save=39.10ms
+[2017.11.05-15.37.20:513][304]LogSavePackage: Moving 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/Main_BuiltData9CB698474689416B117658B1B2CCFE28.tmp' to 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset'
+[2017.11.05-15.37.20:514][304]LogSavePackage: Display: Finished SavePackage F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset
+[2017.11.05-15.37.20:519][304]LogFileHelpers: Saving map 'Main' took 0.342
+[2017.11.05-15.37.25:386][572]LogSavePackage: Save=28.86ms
+[2017.11.05-15.37.25:386][572]LogSavePackage: Moving 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/MainC04203984FD3BD1ED80F10AE21DE6365.tmp' to 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main.umap'
+[2017.11.05-15.37.25:387][572]LogSavePackage: Display: Finished SavePackage F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main.umap
+[2017.11.05-15.37.25:396][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HalloweenRhapsody/Maps/Main_BuiltData" FILE="F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset" SILENT=true
+[2017.11.05-15.37.25:408][572]LogSavePackage: Save=9.81ms
+[2017.11.05-15.37.25:408][572]LogSavePackage: Moving 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/Main_BuiltData80D3A6DE41C4EED54BD635BD127E8D7A.tmp' to 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset'
+[2017.11.05-15.37.25:409][572]LogSavePackage: Display: Finished SavePackage F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/HalloweenRhapsody/Maps/Main_BuiltData.uasset
+[2017.11.05-15.37.27:490][695]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微軟倉頡).
+[2017.11.05-15.37.27:675][696]Cmd: QUIT_EDITOR
+[2017.11.05-15.37.27:699][696]LogExit: Preparing to exit.
+[2017.11.05-15.37.28:822][696]LogExit: Editor shut down
+[2017.11.05-15.37.28:827][696]LogExit: Transaction tracking system shut down
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/' was aborted.
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.05-15.37.29:063][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.05-15.37.29:064][696]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.05-15.37.29:121][696]LogExit: Object subsystem successfully closed.
+[2017.11.05-15.37.29:135][696]LogD3D11RHI: Shutdown
+[2017.11.05-15.37.29:135][696]LogD3D11RHI: CleanupD3DDevice
+[2017.11.05-15.37.29:139][696]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.05-15.37.29:152][696]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (552)
+[2017.11.05-15.37.29:152][696]LogModuleManager: Shutting down and abandoning module NewLevelDialog (550)
+[2017.11.05-15.37.29:152][696]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.05-15.37.29:152][696]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.05-15.37.29:152][696]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.05-15.37.29:153][696]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.05-15.37.29:154][696]LogDirectoryWatcher: A directory notification for 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/Collections/' was aborted.
+[2017.11.05-15.37.29:154][696]LogDirectoryWatcher: A directory notification for 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Content/Developers/user/Collections/' was aborted.
+[2017.11.05-15.37.29:154][696]LogDirectoryWatcher: A directory notification for 'F:/GameDevolpment/Android-Mobile-Game-Project/MobileGame/Saved/Collections/' was aborted.
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.05-15.37.29:154][696]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.05-15.37.29:155][696]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.05-15.37.30:089][696]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.05-15.37.30:090][696]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.05-15.37.30:153][696]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.05-15.37.30:154][696]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.05-15.37.30:155][696]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.05-15.37.30:376][696]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.05-15.37.30:377][696]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.05-15.37.30:378][696]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.05-15.37.30:378][696]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.05-15.37.30:378][696]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.05-15.37.30:379][696]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.05-15.37.30:480][696]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.05-15.37.30:580][696]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.05-15.37.30:581][696]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.05-15.37.30:582][696]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.05-15.37.30:588][696]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.05-15.37.30:591][696]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.05-15.37.30:592][696]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.05-15.37.30:685][696]LogDerivedDataCache: Shutdown
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.05-15.37.30:685][696]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.05-15.37.30:686][696]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.05-15.37.30:686][696]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.05-15.37.30:686][696]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0768AB6D-4C08-518A-2535-F8AD520CB954%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=8b75cb714d9fc8b9cb92ee9d451161c4%7C3c397ca38454487eb544ca8b62f7e59a%7C10d11111-3d1a-4a64-b61b-7c4624f313d8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.05-15.37.30:709][696]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.05-15.37.30:710][696]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.05-15.37.30:711][696]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.05-15.37.30:714][696]LogExit: Exiting.
+[2017.11.05-15.37.30:721][696]Log file closed, 11/05/17 23:37:30
